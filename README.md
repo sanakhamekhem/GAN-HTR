@@ -32,8 +32,10 @@ python GAN_AHTR.py
 
 python eval_Dibco_2010.py
 
-Ckeckpoints to test on HDIBCO 2010 are available : 
+Ckeckpoints to test using the HDIBCO 2010 are available :
+
 https://usaupload.com/5Guu/discriminator_weights.h5
+
 https://usaupload.com/5GuG/generator_weights.h5
 
 ###  Train a handwriting text recognition system 
