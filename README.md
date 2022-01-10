@@ -24,7 +24,7 @@ pip install  requirements.txt
 python distort_image_khatt.py
 
 
-###  Train the GAN-HTR system using a hadwritten texts images dataset
+###  Train the GAN-HTR system using handwritten texts images datasets
 
 python GAN_AHTR.py
 
