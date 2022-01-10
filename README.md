@@ -38,17 +38,15 @@ python eval_Dibco_2010.py
 
 Citation
 If this work was useful for you, please cite it as:
+
 @article{KHAMEKHEMJEMNI2022108370,
 title = {Enhance to read better: A Multi-Task Adversarial Network for Handwritten Document Image Enhancement},
 journal = {Pattern Recognition},
 volume = {123},
 pages = {108370},
 year = {2022},
-issn = {0031-3203},
 doi = {https://doi.org/10.1016/j.patcog.2021.108370},
-url = {https://www.sciencedirect.com/science/article/pii/S0031320321005501},
 author = {Sana {Khamekhem Jemni} and Mohamed Ali Souibgui and Yousri Kessentini and Alicia Fornés},
-keywords = {Handwritten document image binarization, Document enhancement, Handwriting text recognition, Generative adversarial networks, Recurrent neural networks},
 }
   
   
