@@ -3,6 +3,13 @@
 ### Description
 This is an implementation for the paper "Enhance to Read Better: A Multi-Task Adversarial Network for Handwritten Document Image Enhancement" designed to enhance the document quality before the recognition process. It could be used for document cleaning and binarization. 
 
+• A Generative Adversarial Network for handwritten document image binarization.
+
+• We perform document binarization while ensuring text readability, simultaneously, by integrating a handwritten text recognition component within the proposed architecture.
+
+• The proposed model enhances different forms of documents, independently of the text language.
+
+• We achieve state-of-the-art performance on the public H-DIBCO datasets.
 
 ### License
 This work is only allowed for academic research use. For commercial use, please contact the author.
